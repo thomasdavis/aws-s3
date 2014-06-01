@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "aws-s3"
-  s.version     = Aws::S3::VERSION
+  s.version     = "0.6.3" 
   s.authors     = ["Thomas Davis"]
   s.email       = ["thomasalwyndavis@gmail.com"]
   s.homepage    = ""
